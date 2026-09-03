@@ -217,10 +217,13 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 
 <!-- ==================== STAGE 10: CLOSING QUANTUM SINGULARITY CORE ==================== -->
 <div align="center" id="-personal-philosophy">
-  <img src="assets/footer-quantum.svg" alt="Quantum Core Finale with Personal Philosophy" width="100%" />
+  <img width="960" height="280" alt="features-vitality" src="https://github.com/user-attachments/assets/b6d4b782-9989-4f29-99e9-645b9e718dfa" />
+
 </div>
 
 <br/>
+<img width="960" height="280" alt="terminal-boot" src="https://github.com/user-attachments/assets/20f3d903-5924-425e-9146-a1f073815a89" />
+
 
 <div align="center">
   <sub>⚡ Designed with 60 FPS CSS/SMIL vector animations. Engineered for Data Science, AI &amp; Spatial Web Computing.</sub>
