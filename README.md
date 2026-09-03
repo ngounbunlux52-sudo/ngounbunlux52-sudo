@@ -1,16 +1,220 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ngounbunlux52-sudo/ngounbunlux52-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- ==================== STAGE 1: HOLOGRAPHIC AI HERO BANNER ==================== -->
+<a href="https://remix-ngoun-bunlux-ai-portfolio-3d-assistant-8318.ai.studio/">
+  <img src="assets/profile-hero.svg" alt="Ngoun Bunlux — AI & Data Science Engineer" width="100%" />
+</a>
 
-Here are some ideas to get you started:
+<br/><br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ==================== TELEMETRY STATUS PILLS ==================== -->
+<p align="center">
+  <img src="https://img.shields.io/badge/STUDENT-RUPP%20B.SC%20DATA%20SCIENCE-00f2fe?style=for-the-badge&logo=googlescholar&logoColor=black" alt="RUPP Data Science" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20MACHINE%20LEARNING-9d4edd?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI & ML Focus" />
+  <img src="https://img.shields.io/badge/SPATIAL-3D%20WEB%20ENGINE-ff007f?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Web Development" />
+  <img src="https://img.shields.io/badge/STATUS-SYNAPSE%20ONLINE-00ff9d?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status Online" />
+  <img src="https://img.shields.io/badge/LOCATION-PHNOM%20PENH%20%F0%9F%87%B0%F0%9F%87%AD-ffbd2e?style=for-the-badge" alt="Location Cambodia" />
+</p>
+
+<h3><i>"Turning data into intelligence and ideas into immersive experiences."</i></h3>
+
+<p align="center">
+  <a href="#-synthesize-profile-terminal">Terminal Bio</a> •
+  <a href="#-connect-with-me--explore-my-work">Connect</a> •
+  <a href="#-neural-topology--ai-architecture">Neural Core & Graphs</a> •
+  <a href="#-about-me">About Me</a> •
+  <a href="#-technical-matrix--stack-proficiencies">Tech Matrix</a> •
+  <a href="#-milestone-circuit--practical-experience">Milestones</a> •
+  <a href="#-live-github-telemetry--grid-dynamics">GitHub Stats</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ngounbunlux52-sudo&style=flat-square&color=00f2fe" alt="Profile Views"/>
+</p>
+
+</div>
+
+<br/>
+
+<!-- ==================== STAGE 2: INTERACTIVE CYBER TERMINAL & BIO ==================== -->
+<div align="center" id="-synthesize-profile-terminal">
+  <img src="assets/terminal-bio.svg" alt="Cyber Profile Terminal Bio" width="100%" />
+</div>
+
+<br/>
+
+<!-- ==================== CONNECT WITH ME ==================== -->
+<h2 align="center" id="-connect-with-me--explore-my-work">🔗 Connect With Me &amp; Explore My Work</h2>
+
+<p align="center">
+  <a href="https://remix-ngoun-bunlux-ai-portfolio-3d-assistant-8318.ai.studio/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_3D_Portfolio-05070e?style=for-the-badge&logo=vercel&logoColor=00f2fe" alt="AI Portfolio & 3D Assistant" />
+  </a>
+  &nbsp;
+  <a href="https://www.tiktok.com/@boad20" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=ff007f" alt="TikTok" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ngounbunlux52-sudo" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ngounbunlux52@email.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 3: SYNAPSE STREAM DIVIDER ==================== -->
+<p align="center">
+  <img src="assets/neural-stream-divider.svg" alt="High-Speed Synapse Stream Divider" width="100%" />
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 4: AI NEURAL CORE & CONVERGENCE GRAPHS ==================== -->
+<h2 align="center" id="-neural-topology--ai-architecture">🧠 Neural Topology &amp; AI Intelligence Engine</h2>
+
+<p align="center">
+  <i>Dynamic multi-layer feed-forward network with live synaptic signal transmission, loss convergence sparkline, and real-time training telemetry.</i>
+</p>
+
+<p align="center">
+  <img src="assets/ai-neural-core.svg" alt="AI Neural Core with Dynamic Firing Neurons & Real-time Loss Graph" width="100%" />
+</p>
+
+<br/>
+
+<!-- ==================== ABOUT ME NARRATIVE ==================== -->
+<h2 id="-about-me">🧑‍💻 About Me</h2>
+
+I am a **Data Science & Engineering student at the Royal University of Phnom Penh (RUPP)**, driven by a deep fascination with **Artificial Intelligence, Machine Learning, and Spatial 3D Web Computing**.
+
+I bridge mathematical modeling and modern software engineering — taking raw, unstructured datasets, engineering predictive intelligence, and presenting them through responsive web interfaces and interactive 3D virtual assistants.
+
+- 🎓 **Academic Foundation:** B.Sc. in Data Science & Engineering — Royal University of Phnom Penh (`2024 – Present`)
+- 🤖 **Artificial Intelligence & ML:** Deep neural networks, supervised/unsupervised learning, prompt engineering & LLM integration
+- 📊 **Data Engineering & Analysis:** Data wrangling, exploratory analysis, statistical modeling with Python, Pandas & NumPy
+- 🧊 **3D Web Development:** Creating spatial, interactive web experiences and real-time AI assistant interfaces
+- 🏆 **Competitive Achievement:** **1st Place Winner** at the MIS Datazone Paragon Bootcamp Showcase
+- 🇰🇭 **Base of Operations:** Phnom Penh, Cambodia
+
+<br/>
+
+<!-- ==================== STAGE 5: LASER CYBER DIVIDER ==================== -->
+<p align="center">
+  <img src="assets/cyber-divider.svg" alt="Cyber Photon Divider" width="100%" />
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 6: DYNAMIC TECH MATRIX ==================== -->
+<h2 align="center" id="-technical-matrix--stack-proficiencies">⚡ Technical Matrix &amp; Stack Proficiencies</h2>
+
+<p align="center">
+  <i>Pulsing real-time proficiency meters spanning Data Science, Spatial Web Systems, and Cloud DevOps.</i>
+</p>
+
+<p align="center">
+  <img src="assets/tech-matrix.svg" alt="Dynamic Animated Tech Matrix with Live Proficiency Bars" width="100%" />
+</p>
+
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,php,laravel,supabase,mysql,linux,git,github,vscode" alt="Ngoun Bunlux Tech Stack" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 7: SYNAPSE STREAM DIVIDER ==================== -->
+<p align="center">
+  <img src="assets/neural-stream-divider.svg" alt="Neural Stream Transmission" width="100%" />
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 8: EXPERIENCE & PROJECT CIRCUIT ==================== -->
+<h2 align="center" id="-milestone-circuit--practical-experience">💼 Milestone Circuit &amp; Practical Experience</h2>
+
+<p align="center">
+  <i>Chronological milestone circuit tracing academic achievements, competitive victories, and software prototypes.</i>
+</p>
+
+<p align="center">
+  <img src="assets/experience-timeline.svg" alt="Chronological Career Circuit Timeline with Live Energy Packets" width="100%" />
+</p>
+
+<br/>
+
+### 🏆 Data Analyst Lead — MIS Datazone Paragon Bootcamp
+`July 2026`
+* Directed data extraction, cleaning, and exploratory statistical analysis using advanced spreadsheet modeling.
+* Synthesized business intelligence interpretations, identifying trend correlations and predictive customer metrics.
+* Awarded **1st Place Showcase Winner** among competing cohort teams.
+
+### 🤖 Generative AI Web Prototyping Initiative
+* Engineered rapid, AI-assisted web application architectures converting conceptual designs into functional live prototypes.
+* Leveraged state-of-the-art LLM prompting workflows (Claude, Lovable) to accelerate full-stack iteration cycles.
+* Deployed responsive, interactive user experiences with integrated AI assistance capabilities.
+
+### 🛒 Independent Sales & Storefront Vendor — Khmer24
+`2024 – 2025`
+* Orchestrated digital product listings, customer negotiation, and end-to-end commerce transactions across vehicles and electronics.
+* Optimized digital storefront positioning and client communication workflows.
+
+<br/>
+
+<!-- ==================== CYBER DIVIDER ==================== -->
+<p align="center">
+  <img src="assets/cyber-divider.svg" alt="Cyber Photon Divider" width="100%" />
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 9: LIVE GITHUB TELEMETRY & SNAKE ==================== -->
+<h2 align="center" id="-live-github-telemetry--grid-dynamics">📈 Live GitHub Telemetry &amp; Grid Dynamics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ngounbunlux52-sudo&show_icons=true&theme=radical&count_private=true&title_color=00f2fe&text_color=ffffff&icon_color=ff007f&border_color=9d4edd" height="165" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ngounbunlux52-sudo&layout=compact&theme=radical&title_color=00f2fe&text_color=ffffff&border_color=9d4edd" height="165" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ngounbunlux52-sudo&theme=radical&stroke=9d4edd&background=070914&ring=00f2fe&fire=ff007f&currStreakLabel=00ff9d" alt="GitHub Streak" />
+</p>
+
+<br/>
+
+<p align="center">
+  <b>🐍 Neural Activity Matrix (Snake Animation)</b>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngounbunlux52-sudo/ngounbunlux52-sudo/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngounbunlux52-sudo/ngounbunlux52-sudo/output/github-snake.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/ngounbunlux52-sudo/ngounbunlux52-sudo/output/github-snake.svg" width="100%">
+  </picture>
+</p>
+
+<br/>
+
+<!-- ==================== STAGE 10: CLOSING QUANTUM SINGULARITY CORE ==================== -->
+<div align="center" id="-personal-philosophy">
+  <img src="assets/footer-quantum.svg" alt="Quantum Core Finale with Personal Philosophy" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>⚡ Designed with 60 FPS CSS/SMIL vector animations. Engineered for Data Science, AI &amp; Spatial Web Computing.</sub>
+</div>
