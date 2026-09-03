@@ -2,6 +2,9 @@
 
 <!-- ==================== STAGE 1: HOLOGRAPHIC AI HERO BANNER ==================== -->
 <a href="https://remix-ngoun-bunlux-ai-portfolio-3d-assistant-8318.ai.studio/">
+
+
+  
   <img width="300" height="119" alt="profile-hero" src="https://github.com/user-attachments/assets/54158c72-87b2-4b1f-94cf-32d58f7df524" />
 
 
