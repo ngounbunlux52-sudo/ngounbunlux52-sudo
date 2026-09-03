@@ -1,25 +1,20 @@
-
 <div align="center">
 
 <!-- ==================== STAGE 1: HOLOGRAPHIC AI HERO BANNER ==================== -->
-<img width="300" height="119" alt="profile-hero" src="https://github.com/user-attachments/assets/30882e1c-a6c1-4beb-bc1c-201443835175" />
-
 <a href="https://remix-ngoun-bunlux-ai-portfolio-3d-assistant-8318.ai.studio/">
-
-
-
-
+  <img src="assets/profile-hero.svg" alt="Ngoun Bunlux — AI & Data Science Engineer" width="100%" />
 </a>
 
 <br/><br/>
-<img width="960" height="220" alt="themes-anim" src="https://github.com/user-attachments/assets/25d1f89e-9527-49af-b9d8-6f872582811b" />
-<img width="960" height="280" alt="terminal-boot" src="https://github.com/user-attachments/assets/9e30c1fe-ec0e-469f-82cc-4778f024358f" />
-<img width="960" height="360" alt="terminal-bio" src="https://github.com/user-attachments/assets/baf8b77d-7f14-4f4a-887b-14b6ac1b00e6" />
-<img width="960" height="270" alt="tech-matrix" src="https://github.com/user-attachments/assets/bf7c81c5-2dd5-4e6e-affc-ca8017ee811d" />
 
 <!-- ==================== TELEMETRY STATUS PILLS ==================== -->
 <p align="center">
- 
+  <img src="https://img.shields.io/badge/STUDENT-RUPP%20B.SC%20DATA%20SCIENCE-00f2fe?style=for-the-badge&logo=googlescholar&logoColor=black" alt="RUPP Data Science" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20MACHINE%20LEARNING-9d4edd?style=for-the-badge&logo=pytorch&logoColor=white" alt="AI & ML Focus" />
+  <img src="https://img.shields.io/badge/SPATIAL-3D%20WEB%20ENGINE-ff007f?style=for-the-badge&logo=three.js&logoColor=white" alt="3D Web Development" />
+  <img src="https://img.shields.io/badge/STATUS-SYNAPSE%20ONLINE-00ff9d?style=for-the-badge&logo=statuspal&logoColor=black" alt="Status Online" />
+  <img src="https://img.shields.io/badge/LOCATION-PHNOM%20PENH%20%F0%9F%87%B0%F0%9F%87%AD-ffbd2e?style=for-the-badge" alt="Location Cambodia" />
+</p>
 
 <h3><i>"Turning data into intelligence and ideas into immersive experiences."</i></h3>
 
