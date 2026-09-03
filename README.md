@@ -2,7 +2,9 @@
 
 <!-- ==================== STAGE 1: HOLOGRAPHIC AI HERO BANNER ==================== -->
 <a href="https://remix-ngoun-bunlux-ai-portfolio-3d-assistant-8318.ai.studio/">
-  <img src="assets/profile-hero.svg" alt="Ngoun Bunlux — AI & Data Science Engineer" width="100%" />
+  <img width="300" height="119" alt="profile-hero" src="https://github.com/user-attachments/assets/54158c72-87b2-4b1f-94cf-32d58f7df524" />
+
+
 </a>
 
 <br/><br/>
@@ -38,8 +40,9 @@
 
 <!-- ==================== STAGE 2: INTERACTIVE CYBER TERMINAL & BIO ==================== -->
 <div align="center" id="-synthesize-profile-terminal">
-  <img src="assets/terminal-bio.svg" alt="Cyber Profile Terminal Bio" width="100%" />
-</div>
+<img width="960" height="86" alt="ecg-divider" src="https://github.com/user-attachments/assets/9d15da9a-9daf-4ddc-8571-42d634923091" />
+
+
 
 <br/>
 
@@ -72,7 +75,8 @@
 
 <!-- ==================== STAGE 3: SYNAPSE STREAM DIVIDER ==================== -->
 <p align="center">
-  <img src="assets/neural-stream-divider.svg" alt="High-Speed Synapse Stream Divider" width="100%" />
+ <img width="960" height="48" alt="cyber-divider" src="https://github.com/user-attachments/assets/5581eb3e-7892-47e4-b9c2-f38a0cf466b0" />
+
 </p>
 
 <br/>
@@ -85,7 +89,8 @@
 </p>
 
 <p align="center">
-  <img src="assets/ai-neural-core.svg" alt="AI Neural Core with Dynamic Firing Neurons & Real-time Loss Graph" width="100%" />
+  <img width="960" height="220" alt="themes-anim" src="https://github.com/user-attachments/assets/d9a3f9aa-2544-4c17-8275-e61e9f9b441e" />
+
 </p>
 
 <br/>
@@ -108,7 +113,8 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 
 <!-- ==================== STAGE 5: LASER CYBER DIVIDER ==================== -->
 <p align="center">
-  <img src="assets/cyber-divider.svg" alt="Cyber Photon Divider" width="100%" />
+ <img width="960" height="300" alt="ai-neural-core" src="https://github.com/user-attachments/assets/553488e6-70aa-4482-aa10-df4cf9f68fb9" />
+
 </p>
 
 <br/>
@@ -149,7 +155,8 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 </p>
 
 <p align="center">
-  <img src="assets/experience-timeline.svg" alt="Chronological Career Circuit Timeline with Live Energy Packets" width="100%" />
+ <img width="960" height="270" alt="tech-matrix" src="https://github.com/user-attachments/assets/978e8fa6-6774-4883-b7e2-78cc9464dbb2" />
+
 </p>
 
 <br/>
