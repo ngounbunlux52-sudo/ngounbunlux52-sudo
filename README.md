@@ -217,8 +217,10 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ngounbunlux52-sudo/ngounbunlux52-sudo/output/github-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ngounbunlux52-sudo/ngounbunlux52-sudo/output/github-snake.svg">
-    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/ngounbunlux52-sudo/ngounbunlux52-sudo/output/github-snake.svg" width="100%">
-  </picture>
+ <img width="960" height="280" alt="terminal-boot" src="https://github.com/user-attachments/assets/6dd68148-d851-47d2-afc2-0258e3e5537b" />
+
+  
+ 
 </p>
 
 <br/>
