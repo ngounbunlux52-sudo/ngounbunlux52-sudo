@@ -1,8 +1,13 @@
 <div align="center">
 
 <!-- ==================== STAGE 1: HOLOGRAPHIC AI HERO BANNER ==================== -->
+
+
 <a href="https://remix-ngoun-bunlux-ai-portfolio-3d-assistant-8318.ai.studio/">
-  <img src="assets/profile-hero.svg" alt="Ngoun Bunlux — AI & Data Science Engineer" width="100%" />
+<img width="300" height="119" alt="profile-hero" src="https://github.com/user-attachments/assets/30882e1c-a6c1-4beb-bc1c-201443835175" />
+
+
+
 </a>
 
 <br/><br/>
