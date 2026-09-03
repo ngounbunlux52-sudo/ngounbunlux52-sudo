@@ -40,7 +40,8 @@
 
 <!-- ==================== STAGE 2: INTERACTIVE CYBER TERMINAL & BIO ==================== -->
 <div align="center" id="-synthesize-profile-terminal">
-<img width="960" height="86" alt="ecg-divider" src="https://github.com/user-attachments/assets/9d15da9a-9daf-4ddc-8571-42d634923091" />
+
+<img width="960" height="360" alt="terminal-bio" src="https://github.com/user-attachments/assets/3d2743cf-94f2-42f6-87cb-2981702dc29b" />
 
 
 
@@ -75,7 +76,8 @@
 
 <!-- ==================== STAGE 3: SYNAPSE STREAM DIVIDER ==================== -->
 <p align="center">
- <img width="960" height="48" alt="cyber-divider" src="https://github.com/user-attachments/assets/5581eb3e-7892-47e4-b9c2-f38a0cf466b0" />
+ <img width="960" height="70" alt="neural-stream-divider" src="https://github.com/user-attachments/assets/be6e72a8-0429-4491-9f78-efabf20ab5f2" />
+
 
 </p>
 
@@ -89,7 +91,8 @@
 </p>
 
 <p align="center">
-  <img width="960" height="220" alt="themes-anim" src="https://github.com/user-attachments/assets/d9a3f9aa-2544-4c17-8275-e61e9f9b441e" />
+<img width="960" height="300" alt="ai-neural-core" src="https://github.com/user-attachments/assets/a0bf6769-9b3e-4a25-81fc-a94f2f7ef111" />
+
 
 </p>
 
@@ -113,7 +116,7 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 
 <!-- ==================== STAGE 5: LASER CYBER DIVIDER ==================== -->
 <p align="center">
- <img width="960" height="300" alt="ai-neural-core" src="https://github.com/user-attachments/assets/553488e6-70aa-4482-aa10-df4cf9f68fb9" />
+<img width="960" height="48" alt="cyber-divider" src="https://github.com/user-attachments/assets/89616c7b-da99-41f1-9e60-d579a7ecbb37" />
 
 </p>
 
@@ -127,7 +130,8 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 </p>
 
 <p align="center">
-  <img src="assets/tech-matrix.svg" alt="Dynamic Animated Tech Matrix with Live Proficiency Bars" width="100%" />
+ <img width="960" height="270" alt="tech-matrix" src="https://github.com/user-attachments/assets/7cb1b17c-41c9-49e7-a7e3-ea57e566dab7" />
+
 </p>
 
 <br/>
@@ -142,8 +146,8 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 
 <!-- ==================== STAGE 7: SYNAPSE STREAM DIVIDER ==================== -->
 <p align="center">
-  <img src="assets/neural-stream-divider.svg" alt="Neural Stream Transmission" width="100%" />
-</p>
+ <img width="960" height="70" alt="neural-stream-divider" src="https://github.com/user-attachments/assets/c584c6c4-0ce9-49a4-b9d6-8da49e299f19" />
+
 
 <br/>
 
@@ -155,7 +159,8 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 </p>
 
 <p align="center">
- <img width="960" height="270" alt="tech-matrix" src="https://github.com/user-attachments/assets/978e8fa6-6774-4883-b7e2-78cc9464dbb2" />
+ <img width="960" height="240" alt="experience-timeline" src="https://github.com/user-attachments/assets/7ebb8b49-f72e-4b71-b0ba-753f29b9a21e" />
+
 
 </p>
 
@@ -181,8 +186,8 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 
 <!-- ==================== CYBER DIVIDER ==================== -->
 <p align="center">
-  <img src="assets/cyber-divider.svg" alt="Cyber Photon Divider" width="100%" />
-</p>
+  <img width="960" height="48" alt="cyber-divider" src="https://github.com/user-attachments/assets/ac2229f5-c725-4591-abdd-76835758d48b" />
+
 
 <br/>
 
@@ -222,7 +227,7 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 </div>
 
 <br/>
-<img width="960" height="280" alt="terminal-boot" src="https://github.com/user-attachments/assets/20f3d903-5924-425e-9146-a1f073815a89" />
+<img width="960" height="46" alt="wave-divider" src="https://github.com/user-attachments/assets/83a1bd6b-8383-43c8-b7ed-14a9834fa2d6" />
 
 
 <div align="center">
