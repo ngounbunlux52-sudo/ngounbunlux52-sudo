@@ -236,3 +236,17 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 <div align="center">
   <sub>⚡ Designed with 60 FPS CSS/SMIL vector animations. Engineered for Data Science, AI &amp; Spatial Web Computing.</sub>
 </div>
+---
+
+## © Copyright
+
+© 2026 Setha Ly. All rights reserved.
+
+This README, including its design, layout, text, graphics, and custom content,
+is my original work.
+
+You may view this README for personal reference, but you may not copy,
+reproduce, redistribute, modify, or publish this README or substantial
+portions of it without my permission.
+
+Unauthorized reuse of this content is not permitted.
