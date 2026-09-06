@@ -240,7 +240,7 @@ I bridge mathematical modeling and modern software engineering — taking raw, u
 
 ## © Copyright
 
-© 2026 Setha Ly. All rights reserved.
+© 2026 NGOUN BUNLUX. All rights reserved.
 
 This README, including its design, layout, text, graphics, and custom content,
 is my original work.
